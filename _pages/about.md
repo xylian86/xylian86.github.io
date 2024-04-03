@@ -16,8 +16,5 @@ social: true  # includes social icons at the bottom of the page
 
 I am a second-year [MSCS](https://cs.illinois.edu/academics/graduate/ms-program) student in the [Department of Computer Science](https://cs.illinois.edu) at [University of Illinois at Urbana-Champaign](https://illinois.edu). I am co-advised by Prof. [Tianyin Xu](https://tianyin.github.io) and Prof. [Darko Marinov](https://mir.cs.illinois.edu/marinov). I got my bachelor degree from [Zhejiang University](https://www.zju.edu.cn/english/), major in Computer Engineering.
 
-I am generally interested in **Software Engineering**, **Machine Learning** and **System Reliability**.
-
-I am actively seeking a PhD position in SE/Sys/ML for 2024 fall.
 
 🙋 Feel free to send me an <a href="mailto:lian7@illinois.edu">email</a> if you are interested in my research.
