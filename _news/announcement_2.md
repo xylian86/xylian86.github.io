@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-12-08 16:11:00-0400
+date: 2024-07-03 16:11:00-0400
 inline: true 
 related_posts: false
 ---
 
-Our work uRTS has been accepted by **ICSE'23**!
+Our work Ciri has been accepted by **ICSE'25**!
