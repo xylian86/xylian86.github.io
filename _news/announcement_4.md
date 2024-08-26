@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join CS@UIUC as a PhD student in 2024Fall. See you in the cornfields!
+I will join CS@UIUC as a PhD student in 2024 Fall. See you in the cornfields!

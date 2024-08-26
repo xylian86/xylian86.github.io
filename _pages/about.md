@@ -14,6 +14,6 @@ latest_posts: false  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an incoming Ph.D. student in Computer Science  at the [University of Illinois at Urbana-Champaign](https://illinois.edu). I hold a Master's degree in Computer Science from UIUC and a Bachelor's degree in Computer Engineering from [Zhejiang University](https://www.zju.edu.cn/english/).
+Hi, I am the first-year Ph.D. student in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu). I hold a Master's degree in Computer Science from UIUC and a Bachelor's degree in Computer Engineering from [Zhejiang University](https://www.zju.edu.cn/english/).
 
 🙋 Feel free to send me an <a href="mailto:lian7@illinois.edu">email</a> if you are interested in my research.
