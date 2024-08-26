@@ -159,6 +159,11 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  services:
+    defaults:
+      layout: post
+    output: true
+    permalink: /services/:path/
 
 announcements:
   enabled: true
