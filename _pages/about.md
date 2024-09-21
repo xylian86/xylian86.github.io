@@ -15,6 +15,6 @@ services: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am the first-year Ph.D. student in Computer Science at the [University of Illinois at Urbana-Champaign](https://illinois.edu). I hold a Master's degree in Computer Science from UIUC and a Bachelor's degree in Computer Engineering from [Zhejiang University](https://www.zju.edu.cn/english/).
+Hi, I'm a 1st-year Ph.D. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu). I work on ML systems, focusing on the efficiency of LLM training and inference.
 
 🙋 Feel free to send me an <a href="mailto:lian7@illinois.edu">email</a> if you are interested in my research.
