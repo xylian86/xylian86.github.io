@@ -81,6 +81,8 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
+          apt install pipx
+          pipx ensurepath
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
