@@ -1,0 +1,10 @@
+<div class="services">
+    {% if site.services  %}
+      {% assign services = site.services | sort: "order" %}
+      {% for item in services limit: site.services_limit %}
+        <div><b><strong>{{ item.title }}</strong>: {{ item.conf }}</b></div>
+      {% endfor %}
+    {% else %}
+      <p>No data so far...</p>
+    {% endif %}
+  </div>
