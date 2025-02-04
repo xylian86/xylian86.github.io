@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work Ciri has been accepted by **ICSE'25**!
+Our work Ciri has been accepted at **ICSE'25**!

@@ -185,6 +185,22 @@
     </div>
     {%- endif %}
 
+    {%- if entry.highlight1 %}
+        <span class="highlight" style="color: red; font-weight: bold;">{{ entry.highlight1 }}</span><br>
+    {%- endif %}
+
+    {%- if entry.highlight2 %}
+        <span class="highlight" style="color: red; font-weight: bold;">{{ entry.highlight2 }}</span><br>
+    {%- endif %}
+
+    {%- if entry.highlight3 %}
+        <span class="highlight" style="color: red; font-weight: bold;">{{ entry.highlight3 }}</span><br>
+    {%- endif %}
+
+    {%- if entry.highlight4 %}
+        <span class="highlight" style="color: red; font-weight: bold;">{{ entry.highlight4 }}</span><br>
+    {%- endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {%- if entry.abstract %}
