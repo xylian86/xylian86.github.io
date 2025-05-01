@@ -28,6 +28,12 @@
       </div>
       {%- endif -%}
 
+      {%- if entry.demo %}
+      <div class="row justify-content-center">
+        <div class="badge toappear"> &#160 Demo &#160 <br></div>
+      </div>
+      {%- endif -%}
+
       {%- if entry.award %}
       <div class="row justify-content-center">
         <div class="badge award">🏆 &#160 {{entry.award}} &#160 🏆</div>
