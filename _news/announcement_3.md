@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on universal checkpointing has been accepted at USENIX ATC 2025!
+Our work on universal checkpointing has been accepted at USENIX ATC 2025.
