@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am honored to receive the **Amazon PhD Fellowship**.
+I am honored to receive the **Amazon PhD Fellowship ($70K)**.
