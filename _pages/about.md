@@ -17,6 +17,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a first-year Ph.D. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu), working with [Minjia Zhang](https://minjiazhang.github.io). I study elastic and efficient machine learning systems, effective efficiency algorithms, and LLM applications for systems.
+I am a second-year Ph.D. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu), working with [Minjia Zhang](https://minjiazhang.github.io). I study elastic and efficient machine learning systems, effective efficiency algorithms, and LLM applications for systems.
 
 🙋 Feel free to reach out via <a href="mailto:lian7@illinois.edu">email</a> if you are interested in my research.
