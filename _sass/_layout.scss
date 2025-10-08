@@ -30,6 +30,10 @@ body.sticky-bottom-footer {
 .profile {
   img {
     width: 100%;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15), 
+                0 4px 8px rgba(0, 0, 0, 0.12),
+                0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
   }
 }
 
@@ -39,6 +43,21 @@ body.sticky-bottom-footer {
 /******************************************************************************
  * Publications
  ******************************************************************************/
+
+// Reduce spacing between badge column and paper info column
+.bibliography {
+  .row {
+    --bs-gutter-x: 1rem; // Reduce from default 1.5rem to 1rem
+    
+    .col-sm-3 {
+      padding-right: 0.5rem; // Reduce right padding of left column
+    }
+    
+    .col-sm-9 {
+      padding-left: 0.5rem; // Reduce left padding of right column
+    }
+  }
+}
 
 // TODO: redefine publications layout.
 
