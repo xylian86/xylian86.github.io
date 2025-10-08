@@ -47,14 +47,14 @@ body.sticky-bottom-footer {
 // Reduce spacing between badge column and paper info column
 .bibliography {
   .row {
-    --bs-gutter-x: 1rem; // Reduce from default 1.5rem to 1rem
+    --bs-gutter-x: 0.3rem; // Reduce from default 1.5rem to 0.3rem
     
     .col-sm-3 {
-      padding-right: 0.5rem; // Reduce right padding of left column
+      padding-right: 0.15rem; // Reduce right padding of left column
     }
     
     .col-sm-9 {
-      padding-left: 0.5rem; // Reduce left padding of right column
+      padding-left: 0.15rem; // Reduce left padding of right column
     }
   }
 }
