@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am honored to receive the **Microsoft Research Fellowship**.
+I am honored to receive the **Microsoft Research Fellowship ($43K)**.
