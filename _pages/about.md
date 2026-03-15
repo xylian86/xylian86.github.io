@@ -17,6 +17,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a second-year Ph.D. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu), working with [Minjia Zhang](https://minjiazhang.github.io). I study machine learning systems, with a current emphasis on RL training and agentic RL.
+I am a second-year Ph.D. student in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu), working with [Minjia Zhang](https://minjiazhang.github.io). I study machine learning systems and reinforcement learning, with a current focus on RL training and agentic RL.
 
 🙋 Feel free to reach out via <a href="mailto:lian7@illinois.edu">email</a> if you are interested in my research.

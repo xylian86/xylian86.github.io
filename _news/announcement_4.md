@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am honored to receive the **Amazon AI PhD Fellowship ($70K)**.
+I am honored to receive the **[Amazon AI PhD Fellowship ($70K)](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program)**.
